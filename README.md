@@ -1,6 +1,3 @@
-# Hearthstoners
-Hearthstone Data Tracker
-
 #Features
 ##Feature 1: Form to track our games
 - [ ]Form
